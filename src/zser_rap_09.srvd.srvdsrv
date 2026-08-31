@@ -1,0 +1,4 @@
+@EndUserText.label: 'service definition'
+define service Zser_rap_09 {
+  expose zdata_rap_09;
+}

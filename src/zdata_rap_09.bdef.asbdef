@@ -1,0 +1,10 @@
+managed;
+
+define behavior for zdata_rap_09
+persistent table Zrap_book_09
+lock master
+{
+  create;
+  update;
+  delete;
+}
